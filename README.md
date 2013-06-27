@@ -12,7 +12,7 @@ These resources are provided as a service to participants of the aforementioned 
 created by a Startup Engineering course participant and remain a work-in-progress.
 
 Please report any errors, omissions, or questions through the classroom bulletin board in the existing thread 
-"Startup Engineering Appliance v0.0."
+"Startup Engineering Appliance v0.0" within the Coursera virtual classroom.
 
 Thank you.
 
